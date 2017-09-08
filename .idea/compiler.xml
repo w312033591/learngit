@@ -6,17 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
         <module name="springcloud" />
         <module name="springcloud-config-client" />
         <module name="springcloud-config-server" />
         <module name="springcloud-eureka" />
+        <module name="springcloud-producer1" />
+        <module name="springcloud-producer2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
       <module name="springcloud" target="1.5" />
       <module name="springcloud-config-client" target="1.8" />
       <module name="springcloud-config-server" target="1.8" />
       <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-producer1" target="1.8" />
+      <module name="springcloud-producer2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

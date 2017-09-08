@@ -12,5 +12,8 @@
         <module>springcloud-eureka</module>
         <module>springcloud-config-server</module>
         <module>springcloud-config-client</module>
+        <module>springcloud-producer1</module>
+        <module>springcloud-producer2</module>
+        <module>api-gateway</module>
     </modules>
 </project>

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/../springcloud/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/springcloud-config-client.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-config-client/springcloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/springcloud-config-server.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-config-server/springcloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-eureka/springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/springcloud-producer1.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-producer1/springcloud-producer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-producer2/springcloud-producer2.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-producer2/springcloud-producer2.iml" />
     </modules>
   </component>
 </project>
