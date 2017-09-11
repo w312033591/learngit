@@ -1,14 +1,16 @@
-package com.example.springcloudconfigclient;
+package com.example.springcloudconfigserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.config.server.EnableConfigServer;
 
 @EnableDiscoveryClient
+@EnableConfigServer
 @SpringBootApplication
-public class SpringcloudConfigClientApplication {
+public class SpringcloudConfigServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringcloudConfigClientApplication.class, args);
+		SpringApplication.run(SpringcloudConfigServerApplication.class, args);
 	}
 }

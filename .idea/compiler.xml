@@ -10,6 +10,7 @@
         <module name="springcloud" />
         <module name="springcloud-config-client" />
         <module name="springcloud-config-server" />
+        <module name="springcloud-config-server (1)" />
         <module name="springcloud-eureka" />
         <module name="springcloud-producer1" />
         <module name="springcloud-producer2" />
@@ -20,6 +21,7 @@
       <module name="springcloud" target="1.5" />
       <module name="springcloud-config-client" target="1.8" />
       <module name="springcloud-config-server" target="1.8" />
+      <module name="springcloud-config-server (1)" target="1.8" />
       <module name="springcloud-eureka" target="1.8" />
       <module name="springcloud-producer1" target="1.8" />
       <module name="springcloud-producer2" target="1.8" />
