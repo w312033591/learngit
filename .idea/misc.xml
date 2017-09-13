@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer2/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-eureka/springcloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/springcloud-producer1.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-producer1/springcloud-producer1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-producer2/springcloud-producer2.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-producer2/springcloud-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud-redis/springcloud-redis.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud-redis/springcloud-redis.iml" />
     </modules>
   </component>
 </project>
