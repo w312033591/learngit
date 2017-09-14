@@ -11,7 +11,9 @@
         <module name="springcloud-config-client" />
         <module name="springcloud-config-server" />
         <module name="springcloud-config-server (1)" />
+        <module name="springcloud-consumer" />
         <module name="springcloud-eureka" />
+        <module name="springcloud-hystrix-dashboard" />
         <module name="springcloud-producer1" />
         <module name="springcloud-producer2" />
         <module name="springcloud-redis" />
@@ -19,11 +21,14 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-gateway" target="1.8" />
+      <module name="spirngcloud-hystrix-dashboard" target="1.8" />
       <module name="springcloud" target="1.5" />
       <module name="springcloud-config-client" target="1.8" />
       <module name="springcloud-config-server" target="1.8" />
       <module name="springcloud-config-server (1)" target="1.8" />
+      <module name="springcloud-consumer" target="1.8" />
       <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-hystrix-dashboard" target="1.8" />
       <module name="springcloud-producer1" target="1.8" />
       <module name="springcloud-producer2" target="1.8" />
       <module name="springcloud-redis" target="1.8" />

@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer2/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,44 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="840fd540-33c6-4b7c-9302-70f6f2343382" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_buffer_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_codec_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_common_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_handler_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_resolver_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_netty_netty_transport_4_1_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_projectreactor_reactor_stream_2_0_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_redisson_redisson_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/AquiredLockWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedissonConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/UnableToAquireLockException.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../springcloud/config-repo/didispace-dev.properties.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../springcloud/config-repo/didispace-prod.properties.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../springcloud/config-repo/didispace-test.properties.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../springcloud/config-repo/didispace.properties.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__com_netflix_turbine_turbine_core_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_turbine_1_3_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_turbine_1_3_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_test_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/feign/HelloRemote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/web/ConsumerController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/.idea/misc.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/.idea/modules.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-config-client/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/springcloud-config-client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java" afterPath="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties" afterPath="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-config-server/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/springcloud-config-server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-producer1/pom.xml" afterPath="$PROJECT_DIR$/../springcloud/springcloud-producer1/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java" afterPath="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/test/java/com/example/springcloudredis/SpringcloudRedisApplicationTests.java" afterPath="$PROJECT_DIR$/../springcloud/springcloud-redis/src/test/java/com/example/springcloudredis/SpringcloudRedisApplicationTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../springcloud/out/" />
     <ignored path="$PROJECT_DIR$/../springcloud/target/" />
@@ -51,6 +68,9 @@
     <ignored path="$PROJECT_DIR$/../springcloud/api-gateway/target/" />
     <ignored path="$PROJECT_DIR$/../springcloud/springcloud-config-server1/target/" />
     <ignored path="$PROJECT_DIR$/../springcloud/springcloud-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../springcloud/spirngcloud-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/../springcloud/springcloud-consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,60 +91,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="1161">
+              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AquiredLockWorker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/AquiredLockWorker.java">
+      <file leaf-file-name="SpringcloudHystrixDashboardApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/src/main/java/com/example/springcloudhystrixdashboard/SpringcloudHystrixDashboardApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DistributedLocker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="540">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedissonConnector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedissonConnector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisLocker.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -139,24 +131,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringcloudConfigClientApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/SpringcloudConfigClientApplication.java">
+      <file leaf-file-name="SpringcloudConsumerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/SpringcloudConsumerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="162">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="81">
+              <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloRemote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/feign/HelloRemote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/web/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -188,7 +212,6 @@
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/java/com/example/springcloudconfigserver/SpringcloudConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/java/com/example/springcloudconfigserver/web/TestController.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/web/HelloController.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer2/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-producer2/src/main/java/com/example/springcloudproducer2/SpringcloudProducer2Application.java" />
@@ -204,7 +227,6 @@
         <option value="$PROJECT_DIR$/../springcloud/springcloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/SpringcloudConfigClientApplication.java" />
-        <option value="$PROJECT_DIR$/../springcloud/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-server1/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-client1/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-client/pom.xml" />
@@ -212,12 +234,25 @@
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/AquiredLockWorker.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/UnableToAquireLockException.java" />
-        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedissonConnector.java" />
         <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/testRedlock.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-redis/src/test/java/com/example/springcloudredis/SpringcloudRedisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java" />
+        <option value="$PROJECT_DIR$/../springcloud/spirngcloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/src/main/java/com/example/springcloudhystrixdashboard/SpringcloudHystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/../springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/SpringcloudConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/feign/HelloRemote.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/web/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -268,6 +303,8 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,25 +315,73 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-config-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -304,28 +389,77 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudredis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudeureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudredis" type="462c0819:PsiDirectoryNode" />
-              <item name="lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudproducer1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudproducer1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-producer1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,38 +499,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudConfigClientApplication">
-    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.apigateway.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
-      <module name="api-gateway" />
-      <envs />
-    </configuration>
-    <configuration name="SpringcloudConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.springcloudconfigclient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudconfigclient.SpringcloudConfigClientApplication" />
-      <module name="springcloud-config-client" />
-      <envs />
-    </configuration>
-    <configuration name="SpringcloudConfigServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.springcloudconfigserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudconfigserver.SpringcloudConfigServerApplication" />
-      <module name="springcloud-config-server (1)" />
+  <component name="RunManager" selected="Spring Boot.SpringcloudConsumerApplication">
+    <configuration name="SpirngcloudHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spirngcloudhystrixdashboard.SpirngcloudHystrixDashboardApplication" />
+      <module name="spirngcloud-hystrix-dashboard" />
       <envs />
     </configuration>
     <configuration name="SpringcloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -405,32 +512,41 @@
       <module name="springcloud-config-server" />
       <envs />
     </configuration>
+    <configuration name="SpringcloudConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudconsumer.SpringcloudConsumerApplication" />
+      <module name="springcloud-consumer" />
+      <envs />
+    </configuration>
     <configuration name="SpringcloudEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudeureka.SpringcloudEurekaApplication" />
       <module name="springcloud-eureka" />
       <envs />
     </configuration>
-    <configuration name="SpringcloudProducer1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringcloudHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudhystrixdashboard.SpringcloudHystrixDashboardApplication" />
+      <module name="springcloud-hystrix-dashboard" />
+      <envs />
+    </configuration>
+    <configuration name="SpringcloudProducer1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.example.springcloudproducer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudproducer1.SpringcloudProducer1Application" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudproducer1.SpringcloudProducer1Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../springcloud" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="springcloud-producer1" />
-      <envs />
-    </configuration>
-    <configuration name="SpringcloudProducer2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.springcloudproducer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudproducer2.SpringcloudProducer2Application" />
-      <module name="springcloud-producer2" />
       <envs />
     </configuration>
     <configuration name="SpringcloudRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -438,6 +554,106 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudredis.SpringcloudRedisApplication" />
       <module name="springcloud-redis" />
       <envs />
+    </configuration>
+    <configuration name="SpringcloudRedisApplicationTests$Worker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloudredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springcloud-redis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.springcloudredis" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudredis.SpringcloudRedisApplicationTests$Worker" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpringcloudRedisApplicationTests$Worker.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloudredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springcloud-redis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.springcloudredis" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudredis.SpringcloudRedisApplicationTests$Worker" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpringcloudRedisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloudredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springcloud-redis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.springcloudredis" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudredis.SpringcloudRedisApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpringcloudRedisApplicationTests.testRedLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloudredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springcloud-redis" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.springcloudredis" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springcloudredis.SpringcloudRedisApplicationTests" />
+      <option name="METHOD_NAME" value="testRedLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -520,23 +736,26 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="8">
+    <list size="11">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringcloudEurekaApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConfigServerApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.SpringcloudRedisApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConfigClientApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.SpringcloudProducer1Application" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.SpringcloudProducer2Application" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ApiGatewayApplication" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConfigServerApplication (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpirngcloudHystrixDashboardApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.SpringcloudHystrixDashboardApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConsumerApplication" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests$Worker.run" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests$Worker" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests.testRedLock" />
+      <item index="10" class="java.lang.String" itemvalue="Application.SpringcloudProducer1Application" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConfigClientApplication" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringcloudConfigServerApplication (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.ApiGatewayApplication" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpringcloudProducer2Application" />
-        <item index="4" class="java.lang.String" itemvalue="Spring Boot.SpringcloudProducer1Application" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SpringcloudProducer1Application" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests.testRedLock" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests$Worker.run" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SpringcloudRedisApplicationTests$Worker" />
       </list>
     </recent_temporary>
   </component>
@@ -562,12 +781,49 @@
       <workItem from="1505265363658" duration="2290000" />
       <workItem from="1505267828907" duration="1595000" />
       <workItem from="1505269526719" duration="13391000" />
-      <workItem from="1505291995421" duration="2772000" />
+      <workItem from="1505291995421" duration="3005000" />
+      <workItem from="1505350250165" duration="5754000" />
+      <workItem from="1505356605292" duration="1779000" />
+      <workItem from="1505359877608" duration="13556000" />
+      <workItem from="1505378695637" duration="1699000" />
+      <workItem from="1505381737729" duration="10000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 28m 13s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 30m 49s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 31m 21s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 33m 45s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 41m 14s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests - 2017.09.14 at 13h 45m 51s.xml">
+      <configuration name="SpringcloudRedisApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests$Worker_run - 2017.09.14 at 13h 32m 22s.xml">
+      <configuration name="SpringcloudRedisApplicationTests$Worker.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests_testRedLock - 2017.09.14 at 14h 23m 31s.xml">
+      <configuration name="SpringcloudRedisApplicationTests.testRedLock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests_testRedLock - 2017.09.14 at 14h 24m 17s.xml">
+      <configuration name="SpringcloudRedisApplicationTests.testRedLock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringcloudRedisApplicationTests_testRedLock - 2017.09.14 at 14h 28m 45s.xml">
+      <configuration name="SpringcloudRedisApplicationTests.testRedLock" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76645000" />
+    <option name="totallyTimeSpent" value="99676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,35 +839,35 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28041714" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6825029" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3383546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49478564" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34646583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26941746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29288027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12864077" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -661,108 +917,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/java/com/example/springcloudeureka/SpringcloudEurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/java/com/example/springcloudconfigserver/SpringcloudConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/java/com/example/springcloudeureka/SpringcloudEurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/mvnw" />
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/java/com/example/springcloudconfigserver/web/TestController.java" />
     <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.xml" />
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/web/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer2/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -789,14 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -854,22 +1002,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/config-repo" />
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -881,48 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,11 +1028,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="method#UnableToAquireLockException#0;class#UnableToAquireLockException#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/testRedlock.java" />
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-client/src/main/java/com/example/springcloudconfigclient/web/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -949,39 +1050,184 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedissonConnector.java">
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer2/src/test/java/com/example/springcloudproducer2/SpringcloudProducer2ApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="236">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java">
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="243">
+          <caret line="53" column="65" lean-forward="false" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedisLocker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="-276">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/RedissonConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/main/java/com/example/springcloudredis/lock/DistributedLocker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-redis/src/test/java/com/example/springcloudredis/SpringcloudRedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="48" column="13" lean-forward="false" selection-start-line="45" selection-start-column="74" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/SpringcloudProducer1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/spirngcloud-hystrix-dashboard/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/java/com/example/springcloudproducer1/web/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-eureka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-hystrix-dashboard/src/main/java/com/example/springcloudhystrixdashboard/SpringcloudHystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/SpringcloudConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/feign/HelloRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/java/com/example/springcloudconsumer/web/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-producer1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud/springcloud-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -16,5 +16,8 @@
         <module>springcloud-producer2</module>
         <module>api-gateway</module>
         <module>springcloud-config-server1</module>
+        <module>springcloud-redis</module>
+        <module>springcloud-hystrix-dashboard</module>
+        <module>springcloud-consumer</module>
     </modules>
 </project>

@@ -16,6 +16,6 @@ public interface DistributedLocker{
     * @throws UnableToAquireLockException
     * @throws Exception
     */
-  <T> T lock(String resourceName,AquiredLockWorker worker) throws UnableToAquireLockException,Exception;
-  <T> T lock(String resourceName,AquiredLockWorker worker,int lockTime)throws  UnableToAquireLockException,Exception;
+  <T> T lock(String resourceName,AquiredLockWorker<T> worker) throws UnableToAquireLockException,Exception;
+  <T> T lock(String resourceName,AquiredLockWorker<T> worker,int lockTime)throws  UnableToAquireLockException,Exception;
 }
