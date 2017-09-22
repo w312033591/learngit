@@ -11,4 +11,11 @@ hystrix:
 
 logging:
   file: ./log/sys-web.log
+  ## 集群监控使用
+
+## turbine:
+##  app-config: 
+## aggregator:
+## clusterConfig: default
+##  cluster-name-expression: new String("default")
 
