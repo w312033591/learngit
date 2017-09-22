@@ -30,6 +30,6 @@ spring:
     in-memory: true
 
 logging:
-  file: ./log/xxpay-service.log
+  file: ./log/sys-service.log
 
 
